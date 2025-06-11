@@ -1,1 +1,2 @@
-mini project
+Weather Pulse Website
+
